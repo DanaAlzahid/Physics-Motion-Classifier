@@ -11,7 +11,7 @@ This notebook demonstrates how classical motion types in physics can be modeled 
 Time,
 Displacement,
 Velocity,
-Acceleration,
+Acceleration
 
 🤖 Model
 
