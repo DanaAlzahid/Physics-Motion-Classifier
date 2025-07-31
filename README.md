@@ -8,10 +8,10 @@ This notebook demonstrates how classical motion types in physics can be modeled 
 
 ⚙️ Features Used
 
-Time
-Displacement
-Velocity
-Acceleration
+Time,
+Displacement,
+Velocity,
+Acceleration,
 
 🤖 Model
 
